@@ -15,6 +15,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 <h1>황지환15</h1>
+<h1>배혜미6</h1>
+
 
 <!-- 사용자 편의를 위해 검색창을 눌렀을 때 입력값이 지워지게 function처리 -->
 <script>
